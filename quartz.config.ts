@@ -7,15 +7,17 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
+	css: ["styles/custom.scss"],
+	
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Wiki Manutenção",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pt-BR",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

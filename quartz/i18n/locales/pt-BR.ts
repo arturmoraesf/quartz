@@ -22,8 +22,8 @@ export default {
       quote: "Citação",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "Sem backlinks encontrados",
+      title: "Links anteriores",
+      noBacklinksFound: "Sem links anteriores encontrados",
     },
     themeToggle: {
       lightMode: "Tema claro",
@@ -65,7 +65,7 @@ export default {
     error: {
       title: "Não encontrado",
       notFound: "Esta página é privada ou não existe.",
-      home: "Retornar a página inicial",
+      home: "Retornar à página inicial",
     },
     folderContent: {
       folder: "Arquivo",
