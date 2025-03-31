@@ -10,7 +10,7 @@ Cadastrar produtos e serviços no [[SIAT🚚🌐]] é importante para manter reg
 ---
 # 2ª forma - Cadastrando manualmente
 
-1. Acessa-se Frota ➡️ Cadastro ➡️ Produto ➡️ Serviço
+1. Acessa-se Frota ➡️ Cadastro ➡️ Produto/Serviço
 ![[Pasted image 20250327142313.png]]<span style="font-size: smaller;">Tela "Consulta - Cadastro Geral" SIAT</span>
 
 2. Preenche-se o formulário respeitando o [[Código Contábil 🔢]] e o [[Tipo Manutenção 🔢👷]]
