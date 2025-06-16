@@ -19,5 +19,6 @@ Foi escrita em arquivos Markdown com auxílio do software [Obsidian](https://obs
 - [[Servidor 🖥️🌐]]
 - [[E-mail 📧]]
 - [[Nota Fiscal 📃]]
+- [[Lançamento sem Nota Fiscal ❌📃]]
 - [[Planilha de Troca de Óleo 🔁🛢️]]
 - [[Planilha de Troca de Pneu 🔁🚚]]
