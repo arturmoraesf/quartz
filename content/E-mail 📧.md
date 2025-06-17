@@ -6,11 +6,14 @@ O e-mail oficina@transmoycana.com.br é um dos principais canais de comunicaçã
 
 ## 1. Controle de Notas Fiscais
 
-Consiste em um relatório do que foi incluído de novo na [[Planilha de Controle de NF 💻📄]]. Enviado quase diariamente para o e-mail "contasapagar@transmoycana.com.br", com cópia para "fiscal@transmoycana.com.br" e "financeiro@transmoycana.com.br". Tem por objetivo documentar todas as notas de manutenção que são enviadas para o setor financeiro e, de quebra, enviar via anexo os arquivos PDF e XML de toda [[Nota Fiscal 📃]] de Serviço.
+Consiste em um relatório do que foi incluído de novo na [[Planilha de Controle de NF 💻📄|planilha de controle de NF]]. Enviado quase diariamente para o e-mail "contasapagar@transmoycana.com.br", com cópia para "fiscal@transmoycana.com.br" e "financeiro@transmoycana.com.br". Tem por objetivo documentar todas as notas de manutenção que são enviadas para o setor financeiro e, de quebra, enviar via anexo os arquivos PDF e XML de toda [[Nota Fiscal 📃|Nota Fiscal]] de Serviço.
 
 ![[email-nf.png]]
-<span style="font-size: smaller;">Exemplo de e-mail para controle de notas fiscais</span>
+<span style="font-size: smaller;">Exemplo de e-mail para controle de notas fiscais.</span>
 
 ## 2. Desconto de Funcionário
 
 Enviado ocasionalmente para o e-mail rh.moycana@transmoycana.com.br. Referente a solicitações de desconto de funcionários quando eles realizam compras pessoais (ou para acessórios dos veículos) em nome da Transdellas.
+
+![[Pasted image 20250617095528.png]]
+<span style="font-size: smaller;">Exemplo de e-mail solicitando desconto de funcionário.</span>

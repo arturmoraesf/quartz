@@ -1,6 +1,6 @@
-As ordens de serviço são referentes ao registro no [[SIAT🚚🌐]] das utilizações de itens que foram incluídos no estoque e realizações de serviços na oficina da Moycana quando há interesse em mantê-los registrados por quaisquer motivos.
+As ordens de serviço são referentes ao registro no [[SIAT🚚🌐|SIAT]] das utilizações de itens que foram incluídos no [[Estoque 📦|estoque]] e realizações de serviços na oficina da Moycana quando há interesse em mantê-los registrados por quaisquer motivos.
 
-Antes de se realizar qualquer lançamento e baixa, é importante se atentar à quantidade de itens no [[Estoque 📦]] 
+Antes de se realizar qualquer lançamento e baixa, é importante se atentar à quantidade de itens no [[Estoque 📦|estoque]].
 
 ---
 

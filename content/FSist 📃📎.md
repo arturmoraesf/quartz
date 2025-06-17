@@ -13,6 +13,6 @@ O FSist também permite gerar planilhas com todas as notas fiscais emitidas em d
 <span style="font-size: smaller">Guia para gerar relatório no FSist.</span>
 
 > [!tip] Dica
-> É possível gerar um relatório semelhante de tudo o que está lançado no [[SIAT🚚🌐]] na tela de consulta de "Nota Fiscal de Entrada" e comparar ambas as planilhas com um =PROCV.
+> É possível gerar um relatório semelhante de tudo o que está lançado no [[SIAT🚚🌐|SIAT]] na tela de consulta de "Nota Fiscal de Entrada" e comparar ambas as planilhas com um =PROCV.
 > Dessa forma, verifica-se rapidamente quais documentos ainda não entraram no sistema filtrando apenas os fornecedores desejados.
 

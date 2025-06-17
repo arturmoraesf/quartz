@@ -1,4 +1,4 @@
-O código contábil é uma forma de especificar categorias de produtos e serviços no [[SIAT🚚🌐]]. Abaixo, há uma lista dos principais códigos contábeis do setor de manutenção:
+O código contábil é uma forma de especificar categorias de produtos e serviços no [[SIAT🚚🌐|SIAT]]. Abaixo, há uma lista dos principais códigos contábeis do setor de manutenção:
 
 - **411010001** - Peças e Acessórios
 - **411010002** - Lubrificantes
@@ -7,4 +7,4 @@ O código contábil é uma forma de especificar categorias de produtos e serviç
 - **411010011** - Insumos (Exemplos: ferramentas, equipamentos de proteção individual e quaisquer compras para o setor de manutenção que não sejam para aplicações diretas nos caminhões)
 - **412010035** - Serviço de borracharia
 
-O código contábil é extremamente útil para gerar o relatório de [[Resultado e Suas Origens 📊📄]] e para o [[Cadastro de Produtos e Serviços ✨🔧]].
+O código contábil é extremamente útil para gerar o relatório [[Resultado e Suas Origens 📊📄|Resultado e Suas Origens]] e para o [[Cadastro de Produtos e Serviços ✨🔧|cadastro de produtos e serviços]].

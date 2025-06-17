@@ -7,7 +7,7 @@
 ![[Pasted image 20250327145623.png]]
 <br><span style="font-size: smaller;">Exemplo de mensagem enviada no WhatsApp solicitando pagamento ao motorista.</span>
 
-[[SCP]]
+[[SCP 💵📄]]
 [[Contas a Pagar 💸]]
 [[Consulta de Viagem 🔎🗺️]]
 [[Nota Fiscal 📃]]

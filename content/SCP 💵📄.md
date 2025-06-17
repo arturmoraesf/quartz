@@ -1,0 +1,1 @@
+Ao [[Solicitação de Pagamento 👉💵|solicitar um pagamento]] cuja [[Nota Fiscal 📃|nota fiscal]] ainda não foi emitida, é necessário criar um SCP. A criação do SCP pode ser acessada na tela do [[SIAT🚚🌐|SIAT]]: Financeiro➡[[Contas a Pagar 💸|Contas a Pagar]]➡Documentos➡Criar Solicitações + Adiantamentos.

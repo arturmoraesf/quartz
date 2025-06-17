@@ -1,16 +1,16 @@
-[[Nota Fiscal 📃]]
+[[Nota Fiscal 📃|Nota fiscal]].
 # Sama
 
-[[Token 🔑🔡]] chega pelo WhatsApp e SMS.
+[[Token 🔑🔡|Token]] chega pelo WhatsApp e SMS.
 
 ---
 
 # Tambasa
 
-Enviar [[E-mail 📧]].
+Enviar [[E-mail 📧|e-mail]].
 
 ---
 
 # Pacaembu
 
-[[Token 🔑🔡]] chega pelo [[E-mail 📧]]
+[[Token 🔑🔡|Token]] chega pelo [[E-mail 📧|e-mail]].

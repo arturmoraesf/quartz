@@ -1,1 +1,1 @@
-O token é um código ou uma "senha" enviada por alguns fornecedores para [[Retirada de Mercadoria 🤲🔩]]. Normalmente chega por [[E-mail 📧]], SMS ou WhatsApp.
+O token é um código ou uma "senha" enviada por alguns fornecedores para [[Retirada de Mercadoria 🤲🔩|retirada de mercadoria]]. Normalmente chega por [[E-mail 📧|e-mail]], SMS ou WhatsApp.

@@ -23,4 +23,4 @@ O [SIAT](https://siat.com.br/) é o principal software que a Transdellas utiliza
 Caso o programa não esteja se comportando da forma que deveria, talvez seja necessário entrar em contato com o suporte. Ele pode ser acionado clicando em "Atendimento via WhatsApp", na parte superior da tela. Também é possível entrar em contato através do telefone <u>(31) 8430-1200</u>.
 
 ![[Pasted image 20250327145503.png]]
-<span style="font-size: smaller;">Acesso ao suporte do SIAT</span>
+<span style="font-size: smaller;">Acesso ao suporte do SIAT.</span>
