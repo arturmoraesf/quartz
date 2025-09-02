@@ -9,10 +9,9 @@ Esta wiki tem o objetivo de documentar todos os processos da manutenção da Tra
 
 ---
 # Como foi feita?
-Foi escrita em arquivos Markdown com auxílio do software [Obsidian](https://obsidian.md/) e, depois, convertida em formato de site estático com o [Quartz](https://quartz.jzhao.xyz/). Ela está hospedada no [GitHub Pages](https://pages.github.com/).
+Foi escrita em arquivos Markdown com auxílio do [Obsidian](https://obsidian.md/) e, depois, convertida em formato de site estático com o [Quartz](https://quartz.jzhao.xyz/). Para criação das imagens, é utilizado o [ShareX](https://getsharex.com/). O site está hospedado no [GitHub Pages](https://pages.github.com/). 
 
 ---
-
 # Links importantes
 - [[SIAT🚚🌐]]
 - [[Ordem de Serviço ✨👷]]
