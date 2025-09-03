@@ -1,11 +1,16 @@
 Ao realizar [[Lançamento de NF de Serviço 📃👷|lançamento de nota fiscal de serviço]], precisa-se importar o PDF. Abaixo, há duas formas de obter esse arquivo: uma a partir de um site de prefeitura e outra pelo [Portal do Contribuinte](https://www.nfse.gov.br/EmissorNacional/Login?ReturnUrl=%2fEmissorNacional%2fDashboard).
+
+---
 # Baixando da Prefeitura de Vitória da Conquista
 ## 1º Passo - Acessar site
 https://ba-vitoriadaconquista-pm-nfs.cloud.el.com.br/#/autenticacao
 ## 2º Passo - Preencher dados da NFS-e
 No "Tipo", insira "Pessoa Jurídica". Nos demais campos, insira os dados que constam na nota fiscal.
 ![[Pasted image 20250902120030.png]]
+<span style="font-size: smaller">Exemplo de nota fiscal de serviço.</span>
+
 ![[Pasted image 20250902120330.png]]
+<span style="font-size: smaller">Captura de tela do portal de notas fiscais da prefeitura de Vitória da Conquista.</span>
 
 > [!warning] Observação
 > Note que a prefeitura de Vitória da Conquista pede apenas Chave de Validação (código de verificação) **ou** Número Fiscal. Ou preenche-se um, ou preenche-se outro. CNPJ é obrigatório.
@@ -13,11 +18,16 @@ No "Tipo", insira "Pessoa Jurídica". Nos demais campos, insira os dados que con
 ## 3º passo - Autenticar e baixar NF
 Feito isso, será possível baixar os arquivos PDF e XML da nota fiscal de serviço. Ao clicar em "Visualizar" o navegador redirecionará o usuário para uma tela com o arquivo PDF.
 ![[Pasted image 20250902120747.png]]
+<span style="font-size: smaller">Captura de tela do portal de notas fiscais da prefeitura de Vitória da Conquista.</span>
+
+---
 # Portal do Contribuinte
 O Portal do Contribuinte é um site que visa centralizar a forma de obter arquivos de notas fiscal de serviço, sem depender das plataformas das prefeituras. Pode ser acessado através da URL: https://www.nfse.gov.br/EmissorNacional/Login. É necessário certificado digital para acessar o portal.
 
 > [!warning] Observação
 > Nem todas as notas fiscais de serviço podem ser obtidas através do portal. Algumas ainda precisarão ser consultadas em sites de prefeituras.
+
+---
 # Lista de sites de prefeituras
 Abaixo, listo alguns sites de portais de prefeituras mais recorrentes para busca de notas de fornecedores da Transdellas:
 - [Belo Horizonte](https://bhissdigital.pbh.gov.br/nfse/pages/consultaNFS-e_cidadao.jsf)
