@@ -6,5 +6,6 @@ O código contábil é uma forma de especificar categorias de produtos e serviç
 - **411010005** - Serviços de manutenção
 - **411010011** - Insumos (Exemplos: ferramentas, equipamentos de proteção individual e quaisquer compras para o setor de manutenção que não sejam para aplicações diretas nos caminhões)
 - **412010035** - Serviço de borracharia
+- **99999** - Diversas Inclusões
 
 O código contábil é extremamente útil para gerar o relatório [[Resultado e Suas Origens 📊📄|Resultado e Suas Origens]] e para o [[Cadastro de Produtos e Serviços ✨🔧|cadastro de produtos e serviços]].
