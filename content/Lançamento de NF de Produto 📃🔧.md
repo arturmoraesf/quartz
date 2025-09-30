@@ -2,10 +2,6 @@
 
 ## Salvar arquivos
 ![[Pasted image 20250219100623.png]]
-
-## Selecionar empresa
-![[Pasted image 20250219094241.png]]
-
 ## Abrir novo lançamento
 ![[Pasted image 20250219094455.png]]
 

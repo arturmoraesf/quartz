@@ -25,6 +25,9 @@ Caso o item tenha sido comprado posteriormente à criação da Ordem de Serviço
 
 <span style="font-size: smaller">Campo "Ordem de Serviço" durante lançamento item de NF de Produto. O vínculo entre NF e OS pode ser feito contemplando apenas alguns itens se necessário.</span>
 
+> [!tip] Dica
+> Código mais comum para troca de óleo de motor: **4649**
+
 ### Preenchendo os serviços
 Deve-se inserir os serviços a serem prestados na Lista de Serviços. Geralmente descrições breves como "SERVIÇO DE MANUTENÇÃO" (código 10756) ou "SERVIÇO DE BORRACHARIA INTERNO" (código 98) bastam. Maiores detalhes podem ser incluídos no campo "Observações" da OS.
 ![[Pasted image 20250923165927.png]]
